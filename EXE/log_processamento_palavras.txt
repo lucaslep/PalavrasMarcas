@@ -1,0 +1,101 @@
+2026-08-04 12:02:28 | Tipo=NACIONAL | CodMarca=27779 | Marca=KOROLIT MULTILAYER | Palavra=KOROLIT | Classe=19 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 12:02:28 | Tipo=NACIONAL | CodMarca=27779 | Marca=KOROLIT MULTILAYER | Palavra=MULTILAYER | Classe=19 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 12:05:44 | Tipo=NACIONAL | CodMarca=46350 | Marca=ICAMP MARCAS E PATENTES | Palavra=ICAMP | Classe=40 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 12:05:44 | Tipo=NACIONAL | CodMarca=46350 | Marca=ICAMP MARCAS E PATENTES | Palavra=MARCAS | Classe=40 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 12:05:44 | Tipo=NACIONAL | CodMarca=46350 | Marca=ICAMP MARCAS E PATENTES | Palavra=PATENTES | Classe=40 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 12:47:34 | Tipo=NACIONAL | CodMarca=410309 | Marca=TWX-21 | Palavra=TWX21 | Classe=40 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:20:39 | Tipo=INTERNACIONAL | CodMarca=57822 | Marca=BOTTEGA VENETA | Palavra=BOTTEGA | Classe=9 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:20:39 | Tipo=INTERNACIONAL | CodMarca=57822 | Marca=BOTTEGA VENETA | Palavra=VENETA | Classe=9 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:22:30 | Tipo=INTERNACIONAL | CodMarca=68315 | Marca=TELEMAR | Palavra=TELEMAR | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:22:30 | Tipo=INTERNACIONAL | CodMarca=68315 | Marca=TELEMAR | Palavra=TELEMAR | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:22:30 | Tipo=INTERNACIONAL | CodMarca=68315 | Marca=TELEMAR | Palavra=TELEMAR | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:22:30 | Tipo=INTERNACIONAL | CodMarca=68315 | Marca=TELEMAR | Palavra=TELEMAR | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:22:30 | Tipo=INTERNACIONAL | CodMarca=68315 | Marca=TELEMAR | Palavra=TELEMAR | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:23:48 | Tipo=INTERNACIONAL | CodMarca=77273 | Marca=LUCKY | Palavra=LUCKY | Classe=29 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:24:58 | Tipo=INTERNACIONAL | CodMarca=84567 | Marca=BOM AR | Palavra=BOM | Classe=4 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:24:58 | Tipo=INTERNACIONAL | CodMarca=84567 | Marca=BOM AR | Palavra=AR | Classe=4 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:35:25 | Tipo=INTERNACIONAL | CodMarca=204775 | Marca=BFB | Palavra=BFB | Classe=36 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:35:25 | Tipo=INTERNACIONAL | CodMarca=204775 | Marca=BFB | Palavra=BFB | Classe=36 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:37:32 | Tipo=INTERNACIONAL | CodMarca=239944 | Marca=IN FOCUS | Palavra=IN | Classe=9 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:37:32 | Tipo=INTERNACIONAL | CodMarca=239944 | Marca=IN FOCUS | Palavra=FOCUS | Classe=9 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:39:47 | Tipo=INTERNACIONAL | CodMarca=285804 | Marca=NIGHT TIME | Palavra=NIGHT | Classe=5 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:39:47 | Tipo=INTERNACIONAL | CodMarca=285804 | Marca=NIGHT TIME | Palavra=TIME | Classe=5 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:39:47 | Tipo=INTERNACIONAL | CodMarca=285808 | Marca=DAY TIME | Palavra=DAY | Classe=5 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:39:47 | Tipo=INTERNACIONAL | CodMarca=285808 | Marca=DAY TIME | Palavra=TIME | Classe=5 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:51:10 | Tipo=INTERNACIONAL | CodMarca=439693 | Marca=BFB PERSONNALITE | Palavra=BFB | Classe=36 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:51:10 | Tipo=INTERNACIONAL | CodMarca=439693 | Marca=BFB PERSONNALITE | Palavra=PERSONNALITE | Classe=36 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:51:10 | Tipo=INTERNACIONAL | CodMarca=439693 | Marca=BFB PERSONNALITE | Palavra=BFB | Classe=36 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:51:10 | Tipo=INTERNACIONAL | CodMarca=439693 | Marca=BFB PERSONNALITE | Palavra=PERSONNALITE | Classe=36 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:52:41 | Tipo=INTERNACIONAL | CodMarca=456880 | Marca=BELPLAST | Palavra=BELPLAST | Classe=19 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:32 | Tipo=INTERNACIONAL | CodMarca=476199 | Marca=TELE NORTE LESTE LISTAS | Palavra=TELE | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:32 | Tipo=INTERNACIONAL | CodMarca=476199 | Marca=TELE NORTE LESTE LISTAS | Palavra=NORTE | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:32 | Tipo=INTERNACIONAL | CodMarca=476199 | Marca=TELE NORTE LESTE LISTAS | Palavra=LESTE | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:32 | Tipo=INTERNACIONAL | CodMarca=476199 | Marca=TELE NORTE LESTE LISTAS | Palavra=LISTAS | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:32 | Tipo=INTERNACIONAL | CodMarca=476200 | Marca=TELEMAR LISTAS | Palavra=TELEMAR | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:32 | Tipo=INTERNACIONAL | CodMarca=476200 | Marca=TELEMAR LISTAS | Palavra=LISTAS | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:32 | Tipo=INTERNACIONAL | CodMarca=476200 | Marca=TELEMAR LISTAS | Palavra=TELEMAR | Classe=35 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:32 | Tipo=INTERNACIONAL | CodMarca=476200 | Marca=TELEMAR LISTAS | Palavra=LISTAS | Classe=35 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:32 | Tipo=INTERNACIONAL | CodMarca=476201 | Marca=SERVICO LONGA DISTANCIA TELEMAR | Palavra=SERVICO | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:32 | Tipo=INTERNACIONAL | CodMarca=476201 | Marca=SERVICO LONGA DISTANCIA TELEMAR | Palavra=LONGA | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:32 | Tipo=INTERNACIONAL | CodMarca=476201 | Marca=SERVICO LONGA DISTANCIA TELEMAR | Palavra=DISTANCIA | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:32 | Tipo=INTERNACIONAL | CodMarca=476201 | Marca=SERVICO LONGA DISTANCIA TELEMAR | Palavra=TELEMAR | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:32 | Tipo=INTERNACIONAL | CodMarca=476201 | Marca=SERVICO LONGA DISTANCIA TELEMAR | Palavra=SERVICO | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:32 | Tipo=INTERNACIONAL | CodMarca=476201 | Marca=SERVICO LONGA DISTANCIA TELEMAR | Palavra=LONGA | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:32 | Tipo=INTERNACIONAL | CodMarca=476201 | Marca=SERVICO LONGA DISTANCIA TELEMAR | Palavra=DISTANCIA | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:32 | Tipo=INTERNACIONAL | CodMarca=476201 | Marca=SERVICO LONGA DISTANCIA TELEMAR | Palavra=TELEMAR | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:32 | Tipo=INTERNACIONAL | CodMarca=476201 | Marca=SERVICO LONGA DISTANCIA TELEMAR | Palavra=SERVICO | Classe=35 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:32 | Tipo=INTERNACIONAL | CodMarca=476201 | Marca=SERVICO LONGA DISTANCIA TELEMAR | Palavra=LONGA | Classe=35 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:32 | Tipo=INTERNACIONAL | CodMarca=476201 | Marca=SERVICO LONGA DISTANCIA TELEMAR | Palavra=DISTANCIA | Classe=35 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:32 | Tipo=INTERNACIONAL | CodMarca=476201 | Marca=SERVICO LONGA DISTANCIA TELEMAR | Palavra=TELEMAR | Classe=35 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476205 | Marca=TELEMAR LISTAS TELEFONICAS | Palavra=TELEMAR | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476205 | Marca=TELEMAR LISTAS TELEFONICAS | Palavra=LISTAS | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476205 | Marca=TELEMAR LISTAS TELEFONICAS | Palavra=TELEFONICAS | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476205 | Marca=TELEMAR LISTAS TELEFONICAS | Palavra=TELEMAR | Classe=35 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476205 | Marca=TELEMAR LISTAS TELEFONICAS | Palavra=LISTAS | Classe=35 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476205 | Marca=TELEMAR LISTAS TELEFONICAS | Palavra=TELEFONICAS | Classe=35 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476206 | Marca=LISTAS TELEFONICAS TELEMAR | Palavra=LISTAS | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476206 | Marca=LISTAS TELEFONICAS TELEMAR | Palavra=TELEFONICAS | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476206 | Marca=LISTAS TELEFONICAS TELEMAR | Palavra=TELEMAR | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476206 | Marca=LISTAS TELEFONICAS TELEMAR | Palavra=LISTAS | Classe=35 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476206 | Marca=LISTAS TELEFONICAS TELEMAR | Palavra=TELEFONICAS | Classe=35 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476206 | Marca=LISTAS TELEFONICAS TELEMAR | Palavra=TELEMAR | Classe=35 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476282 | Marca=LISTAS TELEFONICAS TELE NORTE LESTE | Palavra=LISTAS | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476282 | Marca=LISTAS TELEFONICAS TELE NORTE LESTE | Palavra=TELEFONICAS | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476282 | Marca=LISTAS TELEFONICAS TELE NORTE LESTE | Palavra=TELE | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476282 | Marca=LISTAS TELEFONICAS TELE NORTE LESTE | Palavra=NORTE | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476282 | Marca=LISTAS TELEFONICAS TELE NORTE LESTE | Palavra=LESTE | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476282 | Marca=LISTAS TELEFONICAS TELE NORTE LESTE | Palavra=LISTAS | Classe=35 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476282 | Marca=LISTAS TELEFONICAS TELE NORTE LESTE | Palavra=TELEFONICAS | Classe=35 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476282 | Marca=LISTAS TELEFONICAS TELE NORTE LESTE | Palavra=TELE | Classe=35 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476282 | Marca=LISTAS TELEFONICAS TELE NORTE LESTE | Palavra=NORTE | Classe=35 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476282 | Marca=LISTAS TELEFONICAS TELE NORTE LESTE | Palavra=LESTE | Classe=35 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476284 | Marca=TELE NORTE LESTE LISTAS TELEFONICAS | Palavra=TELE | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476284 | Marca=TELE NORTE LESTE LISTAS TELEFONICAS | Palavra=NORTE | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476284 | Marca=TELE NORTE LESTE LISTAS TELEFONICAS | Palavra=LESTE | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476284 | Marca=TELE NORTE LESTE LISTAS TELEFONICAS | Palavra=LISTAS | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476284 | Marca=TELE NORTE LESTE LISTAS TELEFONICAS | Palavra=TELEFONICAS | Classe=38 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476284 | Marca=TELE NORTE LESTE LISTAS TELEFONICAS | Palavra=TELE | Classe=35 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476284 | Marca=TELE NORTE LESTE LISTAS TELEFONICAS | Palavra=NORTE | Classe=35 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476284 | Marca=TELE NORTE LESTE LISTAS TELEFONICAS | Palavra=LESTE | Classe=35 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476284 | Marca=TELE NORTE LESTE LISTAS TELEFONICAS | Palavra=LISTAS | Classe=35 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:54:33 | Tipo=INTERNACIONAL | CodMarca=476284 | Marca=TELE NORTE LESTE LISTAS TELEFONICAS | Palavra=TELEFONICAS | Classe=35 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:55:28 | Tipo=INTERNACIONAL | CodMarca=487029 | Marca=BRASLIFT | Palavra=BRASLIFT | Classe=35 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:55:40 | Tipo=INTERNACIONAL | CodMarca=489791 | Marca=BKR - LOPES, MACHADO | Palavra=BKR | Classe=36 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:55:40 | Tipo=INTERNACIONAL | CodMarca=489791 | Marca=BKR - LOPES, MACHADO | Palavra=LOPES | Classe=36 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:55:40 | Tipo=INTERNACIONAL | CodMarca=489791 | Marca=BKR - LOPES, MACHADO | Palavra=MACHADO | Classe=36 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:55:40 | Tipo=INTERNACIONAL | CodMarca=489791 | Marca=BKR - LOPES, MACHADO | Palavra=BKR | Classe=35 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:55:40 | Tipo=INTERNACIONAL | CodMarca=489791 | Marca=BKR - LOPES, MACHADO | Palavra=LOPES | Classe=35 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:55:40 | Tipo=INTERNACIONAL | CodMarca=489791 | Marca=BKR - LOPES, MACHADO | Palavra=MACHADO | Classe=35 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:55:43 | Tipo=INTERNACIONAL | CodMarca=490552 | Marca=CLARITAS INVESTIMENTOS | Palavra=CLARITAS | Classe=36 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:55:43 | Tipo=INTERNACIONAL | CodMarca=490552 | Marca=CLARITAS INVESTIMENTOS | Palavra=INVESTIMENTOS | Classe=36 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:56:36 | Tipo=INTERNACIONAL | CodMarca=502606 | Marca=TELEMAR PARTICIPACOES | Palavra=TELEMAR | Classe=42 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:56:37 | Tipo=INTERNACIONAL | CodMarca=502606 | Marca=TELEMAR PARTICIPACOES | Palavra=PARTICIPACOES | Classe=42 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:56:37 | Tipo=INTERNACIONAL | CodMarca=502606 | Marca=TELEMAR PARTICIPACOES | Palavra=TELEMAR | Classe=37 | Status=n | Motivo=Status da palavra invalido.
+2026-08-04 13:56:37 | Tipo=INTERNACIONAL | CodMarca=502606 | Marca=TELEMAR PARTICIPACOES | Palavra=PARTICIPACOES | Classe=37 | Status=n | Motivo=Status da palavra invalido.
+2026-08-07 11:17:18 | Tipo=NACIONAL | CodMarca=27779 | Marca=KOROLIT MULTILAYER | Palavra=KOROLIT | Classe=19 | Status=n | Motivo=Status da palavra invalido.
+2026-08-07 11:17:18 | Tipo=NACIONAL | CodMarca=27779 | Marca=KOROLIT MULTILAYER | Palavra=MULTILAYER | Classe=19 | Status=n | Motivo=Status da palavra invalido.
+2026-08-07 11:24:45 | Tipo=NACIONAL | CodMarca=46350 | Marca=ICAMP MARCAS E PATENTES | Palavra=ICAMP | Classe=40 | Status=n | Motivo=Status da palavra invalido.
+2026-08-07 11:24:45 | Tipo=NACIONAL | CodMarca=46350 | Marca=ICAMP MARCAS E PATENTES | Palavra=MARCAS | Classe=40 | Status=n | Motivo=Status da palavra invalido.
+2026-08-07 11:24:45 | Tipo=NACIONAL | CodMarca=46350 | Marca=ICAMP MARCAS E PATENTES | Palavra=PATENTES | Classe=40 | Status=n | Motivo=Status da palavra invalido.
+2026-08-07 14:35:55 | Tipo=NACIONAL | CodMarca=27779 | Marca=KOROLIT MULTILAYER | Palavra=KOROLIT | Classe=19 | Status=n | Motivo=Status da palavra invalido.
+2026-08-07 14:35:55 | Tipo=NACIONAL | CodMarca=27779 | Marca=KOROLIT MULTILAYER | Palavra=MULTILAYER | Classe=19 | Status=n | Motivo=Status da palavra invalido.

@@ -1,0 +1,46 @@
+unit untAguardeProgresso;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, ExtCtrls, cxControls, cxContainer, cxEdit, cxProgressBar,
+  StdCtrls;
+
+type
+  TfAguardeProgresso = class(TForm)
+    Panel1: TPanel;
+    Panel2: TPanel;
+    lblTexto: TLabel;
+    cxProgressBar1: TcxProgressBar;
+    procedure FormShow(Sender: TObject);
+    procedure FormClose(Sender: TObject; var Action: TCloseAction);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  fAguardeProgresso: TfAguardeProgresso;
+
+implementation
+
+uses dmDPA;
+
+{$R *.dfm}
+
+procedure TfAguardeProgresso.FormShow(Sender: TObject);
+begin
+  dm.gCancelouAguardeProcesso := False;
+end;
+
+procedure TfAguardeProgresso.FormClose(Sender: TObject;
+  var Action: TCloseAction);
+begin
+  dm.gCancelouAguardeProcesso := True;
+  Action := caFree;
+  fAguardeProgresso := nil;
+end;
+
+end.

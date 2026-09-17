@@ -1,0 +1,25 @@
+unit untFuncs;
+
+uses
+  SysUtils;
+
+interface
+
+function ArrayHasValue(Arr: array of Integer; Value: Integer): Boolean;
+
+implementation
+
+function ArrayHasValue(Arr: array of Integer; Value: Integer): Boolean;
+begin
+  Result := False;
+  for j := Low(Arr) to High(Arr) do
+  begin
+    if Arr[j] = Value then
+    begin
+      Result := True;
+      Break;
+    end;
+  end;
+end;
+
+end.

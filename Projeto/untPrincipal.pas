@@ -1,0 +1,135 @@
+unit untPrincipal;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls, ComCtrls, ExtCtrls, dmDPA, DB, IBCustomDataSet, IBQuery,
+  Menus, Mask, DBCtrls, DBClient, DBLocal, DBLocalI, ImgList;
+
+type
+  TfrmPrincipal = class(TForm)
+    Panel1: TPanel;
+    Panel2: TPanel;
+    Panel3: TPanel;
+    Label1: TLabel;
+    Panel4: TPanel;
+    Label2: TLabel;
+    Panel5: TPanel;
+    Label3: TLabel;
+    Label4: TLabel;
+    Label6: TLabel;
+    Label7: TLabel;
+    Button2: TButton;
+    edtPalavra: TEdit;
+    edtClasse: TEdit;
+    RPalavra: TEdit;
+    RClasse: TEdit;
+    ROcorrencias: TEdit;
+    MainMenu1: TMainMenu;
+    Sair1: TMenuItem;
+    Processamento1: TMenuItem;
+    procedure Sair1Click(Sender: TObject);
+    procedure Processamento1Click(Sender: TObject);
+    procedure Acentuacao1Click(Sender: TObject);
+    procedure Button2Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmPrincipal: TfrmPrincipal;
+
+implementation
+
+uses
+  untProcessamento, untInicializacao, untMarcaSemAcento;
+
+{$R *.dfm}
+
+procedure TfrmPrincipal.Sair1Click(Sender: TObject);
+begin
+  Close;
+end;
+
+procedure TfrmPrincipal.Processamento1Click(Sender: TObject);
+begin
+  try
+    frmProcessamento := TfrmProcessamento.Create(Self);
+    frmProcessamento.Show;
+  except
+    on E: Exception do
+      ShowMessage('Erro ao abrir a janela de processamento: ' + E.Message);
+  end;
+end;
+
+procedure TfrmPrincipal.Acentuacao1Click(Sender: TObject);
+begin
+  try
+    frmMarcaSemAcento := TfrmMarcaSemAcento.Create(Self);
+    frmMarcaSemAcento.Show;
+  except
+    on E: Exception do
+      ShowMessage('Erro ao abrir a janela de marca sem acento: ' + E.Message);
+  end;
+end;
+
+procedure TfrmPrincipal.Button2Click(Sender: TObject);
+var
+  Query: TIBQuery;
+  CmdSQL: string;
+  ResultadoOcorrencias: Integer;
+  qtdArquivado, qtdPedido, qtdRegistro: Integer;
+begin
+  if edtPalavra.Text = '' then
+  begin
+    DM.M('O campo "Palavra" não pode ser vazio!', mtConfirmation, [mbOK], 0);
+    edtPalavra.SetFocus;
+    Exit;
+  end;
+
+  if edtClasse.Text = '' then
+  begin
+    DM.M('O campo "Classe" não pode ser vazio!', mtConfirmation, [mbOK], 0);
+    edtClasse.SetFocus;
+    Exit;
+  end;
+
+  Query := TIBQuery.Create(nil);
+  try
+    Query.Database := dm.dbPalavra;
+    Query.Transaction := dm.IBTPalavra;
+
+    CmdSQL :=
+      'SELECT qtd_arquivado, qtd_pedido, qtd_registro ' + #13 +
+      'FROM palavra ' + #13 +
+      'WHERE palavra_formatada = ' + QuotedStr(edtPalavra.Text) + #13 +
+      'AND classe = ' + QuotedStr(edtClasse.Text);
+
+    Query.SQL.Text := CmdSQL;
+    Query.Open;
+
+    if not Query.IsEmpty then
+    begin
+      qtdArquivado := Query.FieldByName('qtd_arquivado').AsInteger;
+      qtdPedido := Query.FieldByName('qtd_pedido').AsInteger;
+      qtdRegistro := Query.FieldByName('qtd_registro').AsInteger;
+
+      DM.M('Palavra "' + edtPalavra.Text + '" Classe "' + edtClasse.Text +
+      '": Arquivado:' + IntToStr(qtdArquivado) +
+      '  Pedido:' + IntToStr(qtdPedido) +
+      '  Registro:' + IntToStr(qtdRegistro), mtConfirmation, [mbOK], 0);
+
+    end
+    else
+    begin
+      DM.M('Nenhum registro encontrado para a palavra e classe informadas.', mtWarning, [mbOK], 0);
+    end;
+  finally
+      Query.Free;
+  end;
+end;
+end.
+

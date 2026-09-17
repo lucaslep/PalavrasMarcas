@@ -1,0 +1,30 @@
+unit untProcessamento;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, ExtCtrls, StdCtrls, cxControls, cxContainer, cxEdit,
+  cxProgressBar;
+
+type
+  TfrmAguardeProgresso = class(TForm)
+    Panel1: TPanel;
+    Panel2: TPanel;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmAguardeProgresso: TfrmAguardeProgresso;
+
+implementation
+
+uses
+  dmDPA, untPrincipal;
+
+{$R *.dfm}
+
+end.

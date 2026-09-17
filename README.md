@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Palavras Marcas
 
 Aplicativo desktop desenvolvido em Delphi para gerar e consultar uma base de palavras extraídas de marcas nacionais e internacionais.
@@ -130,6 +129,3 @@ Não há uma suíte automatizada no repositório. A validação deve incluir, em
 ## Licença
 
 Este repositório não possui um arquivo de licença. Antes de distribuir ou reutilizar o código, defina uma licença compatível com as regras do projeto e com as dependências de terceiros.
-=======
-
->>>>>>> 59417691df0d7cb94a4add59ff82263671519640
